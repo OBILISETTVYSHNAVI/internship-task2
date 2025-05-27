@@ -2,14 +2,14 @@
 Internship
  Task 2: Exploratory Data Analysis (EDA)
 
- 🔍 Introduction
+  Introduction
 
 The aim of this task is to perform an in-depth Exploratory Data Analysis (EDA) on the Titanic dataset. EDA is a foundational step in the data analysis process that allows us to understand the characteristics of the dataset before applying any machine learning algorithms.
 
 Through a combination of descriptive statistics and data visualization techniques, this task helps uncover patterns, detect anomalies, test hypotheses, and gain a solid understanding of the relationships between different variables. The insights gathered during EDA guide data preprocessing, feature selection, and model building in future stages.
 
 
-✅ Guidelines Followed
+ Guidelines Followed
 
  1. **Generated Summary Statistics**
 - Calculated key descriptive metrics such as **mean, median, mode, standard deviation, min, max, and quartiles** for each numerical feature.
